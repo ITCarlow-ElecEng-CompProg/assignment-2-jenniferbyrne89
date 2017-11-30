@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505911418 source:d:\computer programming\lab exercises\lab2\factorialcalculator\main.cpp
+	<iostream>
+
+1510152751 source:c:\users\jenni\desktop\year 2\computer programming\lab exercises\2. factorial calculator\factorialcalculator\main.cpp
+	<iostream>
+	<iomanip>
+
